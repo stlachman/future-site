@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://stlachman.github.io/2017/03/thoughts-on-learning-web-development/</loc>
+    <lastmod>2017-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://stlachman.github.io/2017/02/return-of-the-blogger/</loc>
+    <lastmod>2017-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://stlachman.github.io/2016/07/scope-review/</loc>
+    <lastmod>2016-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://stlachman.github.io/2016/06/hello-world/</loc>
+    <lastmod>2016-06-13T11:53:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://stlachman.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://stlachman.github.io/categories/jekyll-update/</loc>
+    <lastmod>2016-07-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://stlachman.github.io/categories/learning-opensource/</loc>
+    <lastmod>2017-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://stlachman.github.io/post/</loc>
+    <lastmod>2017-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://stlachman.github.io/</loc>
+    <lastmod>2017-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://stlachman.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

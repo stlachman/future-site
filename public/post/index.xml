@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Seth&#39;s Personal Website</title>
+    <link>http://stlachman.github.io/post/</link>
+    <description>Recent content in Posts on Seth&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://stlachman.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thoughts on Learning Web Development</title>
+      <link>http://stlachman.github.io/2017/03/thoughts-on-learning-web-development/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://stlachman.github.io/2017/03/thoughts-on-learning-web-development/</guid>
+      <description>I have wanted to write a short post about this topic for some time now, and today I will make this thought tangible. Learning web development is difficult. This statement warrants no comment for anyone who has attempted to learn the craft, but I hazard it here for my own edification.
+Part of the difficulty in learning web development stems from the proliferation of information and tutorials spattered across the web.</description>
+    </item>
+    
+    <item>
+      <title>Return of the Blogger</title>
+      <link>http://stlachman.github.io/2017/02/return-of-the-blogger/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://stlachman.github.io/2017/02/return-of-the-blogger/</guid>
+      <description>Hello World: 2.0. I have been inspired recently by the great content that also happens to be available absolutely FREE (shout out to Tania Rascia)! All of the blogs and resources I have discovered over the past few months have pushed me to learn more than I ever thought possible and as I continue along this journey, I plan to make a more sustained effort in giving back whatever concepts or techniques I have learned for the sake of others.</description>
+    </item>
+    
+    <item>
+      <title>Scope Review</title>
+      <link>http://stlachman.github.io/2016/07/scope-review/</link>
+      <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://stlachman.github.io/2016/07/scope-review/</guid>
+      <description>Today I was reviewing the concept of scope in Javascript, and thanks to the workshop at nodeschool, I believe I have a better understanding of how scope works.
+Suppose we are given the following functions:
+function egg() { var prep = &amp;#34;scrambled&amp;#34;; function bacon() { var amount = 4; } }  In this example, the function egg only has access to the variable prep, but the function bacon has access to both variables (i.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://stlachman.github.io/2016/06/hello-world/</link>
+      <pubDate>Mon, 13 Jun 2016 11:53:33 +0000</pubDate>
+      
+      <guid>http://stlachman.github.io/2016/06/hello-world/</guid>
+      <description>Hello world</description>
+    </item>
+    
+  </channel>
+</rss>

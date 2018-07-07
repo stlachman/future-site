@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekyll Update on Seth&#39;s Personal Website</title>
+    <link>http://stlachman.github.io/categories/jekyll-update/</link>
+    <description>Recent content in Jekyll Update on Seth&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 10 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://stlachman.github.io/categories/jekyll-update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scope Review</title>
+      <link>http://stlachman.github.io/2016/07/scope-review/</link>
+      <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://stlachman.github.io/2016/07/scope-review/</guid>
+      <description>Today I was reviewing the concept of scope in Javascript, and thanks to the workshop at nodeschool, I believe I have a better understanding of how scope works.
+Suppose we are given the following functions:
+function egg() { var prep = &amp;#34;scrambled&amp;#34;; function bacon() { var amount = 4; } }  In this example, the function egg only has access to the variable prep, but the function bacon has access to both variables (i.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://stlachman.github.io/2016/06/hello-world/</link>
+      <pubDate>Mon, 13 Jun 2016 11:53:33 +0000</pubDate>
+      
+      <guid>http://stlachman.github.io/2016/06/hello-world/</guid>
+      <description>Hello world</description>
+    </item>
+    
+  </channel>
+</rss>

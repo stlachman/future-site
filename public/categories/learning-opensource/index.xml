@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning Opensource on Seth&#39;s Personal Website</title>
+    <link>http://stlachman.github.io/categories/learning-opensource/</link>
+    <description>Recent content in Learning Opensource on Seth&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://stlachman.github.io/categories/learning-opensource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thoughts on Learning Web Development</title>
+      <link>http://stlachman.github.io/2017/03/thoughts-on-learning-web-development/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://stlachman.github.io/2017/03/thoughts-on-learning-web-development/</guid>
+      <description>I have wanted to write a short post about this topic for some time now, and today I will make this thought tangible. Learning web development is difficult. This statement warrants no comment for anyone who has attempted to learn the craft, but I hazard it here for my own edification.
+Part of the difficulty in learning web development stems from the proliferation of information and tutorials spattered across the web.</description>
+    </item>
+    
+    <item>
+      <title>Return of the Blogger</title>
+      <link>http://stlachman.github.io/2017/02/return-of-the-blogger/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://stlachman.github.io/2017/02/return-of-the-blogger/</guid>
+      <description>Hello World: 2.0. I have been inspired recently by the great content that also happens to be available absolutely FREE (shout out to Tania Rascia)! All of the blogs and resources I have discovered over the past few months have pushed me to learn more than I ever thought possible and as I continue along this journey, I plan to make a more sustained effort in giving back whatever concepts or techniques I have learned for the sake of others.</description>
+    </item>
+    
+  </channel>
+</rss>

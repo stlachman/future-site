@@ -1,0 +1,15 @@
+---
+categories: learning opensource
+date: "2017-03-27T00:00:00Z"
+title: Thoughts on Learning Web Development
+---
+
+I have wanted to write a short post about this topic for some time now, and today I will make this thought tangible. Learning web development is difficult. This statement warrants no comment for anyone who has attempted to learn the craft, but I hazard it here for my own edification.
+
+Part of the difficulty in learning web development stems from the proliferation of information and tutorials spattered across the web. It is incredibly easy to fall into an abyss of articles concerning the CSS box model, when it is perfectly sufficient to read one good article and apply this knowledge to the work at hand. 
+
+This leads to the greatest difficulty in learning web development, at least in my experience. Web development consists of many google searches and references to stack overflow; it requires consistent practice and it often seems like a piecing together of various, sometimes disjointed, parts. Again, this is not a revelatory observation for anyone who is familiar with this work, but it is important to note for my own sanity. I often find it frustrating because I can't piece together a web page without these intermediary steps.
+
+Counterpoint: I have been writing and conversing within the English language for around twenty years at this point. To expect a similar proficiency after a couple months of teaching oneself how to code is not a reasonable demand. 
+
+Learning to code, however, has been immensely important in making clear the steps and progression of my own thought process. When you become fluent in any skill, you quickly begin to lose sight of the steps you have taken to reach that point. Returning once more to the skill of writing, I recall the importance of having to create outlines for school essays to help structure and direct my arguments. But as my skill in writing (and thinking) developed, I no longer needed to plot out my points in advance as I could visualize the ending I desired and work my way toward it. This will happen at some point for me in web development. And I know it will happen for you as well.

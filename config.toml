@@ -1,0 +1,13 @@
+baseURL = "http://stlachman.github.io"
+footnoteReturnLinkContents = "↩"
+title = "Seth's Personal Website"
+
+[params]
+  AuthorName = "Seth Lachman"
+  GitHubUser = "stlachman"
+  ListOfFoo = ["foo1", "foo2"]
+  SidebarRecentLimit = 5
+  Subtitle = "A place to learn and share about web development."
+
+[permalinks]
+  post = "/:year/:month/:title/"
